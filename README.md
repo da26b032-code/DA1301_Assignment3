@@ -18,4 +18,4 @@ I am a student of AIDA branch of 26 Batch in IIT Madras
  _git status_ - it command helps to see my repo status
 
 ## What I Learned
-I am learning how Git and GitHub work together. 
+ - I am learning how Git and GitHub work together.
